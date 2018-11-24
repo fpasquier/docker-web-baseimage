@@ -1,4 +1,4 @@
-FROM osixia/light-baseimage:1.1.1
+FROM fpasquier/rpi-docker-light-baseimage
 MAINTAINER Bertrand Gouny <bertrand.gouny@osixia.net>
 
 # Add Nginx and non-free repositories
